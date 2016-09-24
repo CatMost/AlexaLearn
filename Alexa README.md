@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node.js Alexa Skills Kit Samples
 
 ## Alexa Skills Kit Documentation
@@ -29,3 +30,7 @@ Here are a few direct links to our documentation:
 - [Getting Started](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/getting-started-guide)
 - [Invocation Name Guidelines](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/choosing-the-invocation-name-for-an-alexa-skill)
 - [Developing an Alexa Skill as an AWS Lambda Function](https://developer.amazon.com/appsandservices/solutions/alexa/alexa-skills-kit/docs/developing-an-alexa-skill-as-a-lambda-function)
+=======
+# AlexaLearn
+learning alexa skillz at GA hackathon
+>>>>>>> 0f38ed2b5c2c64745772dcef6eb8c33d85c19bfb
